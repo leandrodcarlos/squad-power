@@ -1,0 +1,65 @@
+{
+  "slug": "relatorio-de-visita",
+  "titulo": "Relatório de visita técnica",
+  "tarefa": "Transformar as anotações da visita técnica em relatório com plano de ação",
+  "frequencia": "Toda visita (várias por semana)",
+  "destinatario": "o dono ou responsável da empresa visitada (leitor leigo, que decide e executa)",
+  "objetivo": "Você transforma minhas anotações soltas de uma visita técnica em um relatório claro, com os achados organizados por área e um plano de ação priorizado, no padrão fixo do meu escritório.",
+  "entradas": [
+    "Anotações da visita (texto corrido, tópicos ou transcrição do áudio)",
+    "Tipo de empresa (padaria, restaurante, indústria, açougue...) e objetivo da visita",
+    "Data da visita e quem acompanhou (cargo, sem nome completo)",
+    "Fotos descritas em texto, se houver (ex.: \"foto 3: piso com rachadura na área de preparo\")",
+    "Prazo que o cliente combinou comigo para corrigir, se existir"
+  ],
+  "passos": [
+    "Releia as anotações e separe por área: recebimento, armazenamento, produção, higiene e pessoal, documentação, estrutura.",
+    "Classifique cada achado como: conforme, ajuste simples, ajuste importante ou risco alto. Só classifique pelo que está nas anotações.",
+    "Escreva cada achado em uma frase factual: o que foi visto, onde, e por que importa para o cliente.",
+    "Monte o plano de ação: o que fazer, quem faz, prazo sugerido, na ordem do risco mais alto para o mais baixo.",
+    "Liste o que depende de norma ou legislação e marque [conferir vigência] em cada item.",
+    "Escreva o resumo de abertura em até 5 linhas, com a verdade primeiro: o que mais preocupa e o que está bom.",
+    "Feche com os próximos passos e o bloco \"Conferir antes de enviar\"."
+  ],
+  "nunca": [
+    "Culpar pessoas por nome. Fale da função (\"a equipe da produção\").",
+    "Dizer que a empresa \"está aprovada\" ou \"vai passar na fiscalização\".",
+    "Resolver pelo cliente: eu oriento, quem decide e executa é o dono."
+  ],
+  "erros_comuns": [
+    "Resumo longo demais: tem que caber em 5 linhas.",
+    "Plano de ação sem responsável e sem prazo.",
+    "Achado sem dizer por que importa para o cliente."
+  ],
+  "modelo_secoes": [
+    {"titulo": "Resumo para o dono", "instrucao": "Até 5 linhas. Primeiro o que mais preocupa, depois o que está bom."},
+    {"titulo": "Dados da visita", "instrucao": "Empresa ([CLIENTE]), tipo, data, objetivo, quem acompanhou (cargo)."},
+    {"titulo": "O que encontrei, por área", "instrucao": "Para cada área: achado em 1 frase + classificação (conforme, ajuste simples, ajuste importante, risco alto) + por que importa."},
+    {"titulo": "Plano de ação", "instrucao": "Tabela: ação | responsável | prazo sugerido | prioridade. Do risco mais alto ao mais baixo."},
+    {"titulo": "O que depende de norma", "instrucao": "Itens ligados a legislação, cada um com [conferir vigência] e o nome da norma-base se eu tiver enviado."},
+    {"titulo": "Próximos passos", "instrucao": "O que acontece depois desta visita: retorno, prazo, o que o cliente precisa me mandar."}
+  ],
+  "referencias": [
+    {"nome": "Norma-base de Boas Práticas para serviços de alimentação (RDC 216/2004, conferir vigente)", "para_que": "Saber o que olhar numa visita a serviço de alimentação", "onde": "gov.br/anvisa"},
+    {"nome": "Norma de Boas Práticas para fabricação de alimentos aplicável à indústria (conferir qual está vigente)", "para_que": "Visitas a indústrias", "onde": "gov.br/anvisa"},
+    {"nome": "Norma estadual ou municipal de vigilância sanitária do local do cliente", "para_que": "Exigências que mudam de cidade para cidade", "onde": "site da vigilância sanitária local"},
+    {"nome": "Para produtos de origem animal: regulamento do órgão competente (MAPA, SIF/SIE/SIM)", "para_que": "Açougue, laticínio, pescado", "onde": "gov.br/agricultura"},
+    {"nome": "Meu checklist de visita (o que eu uso hoje)", "para_que": "Dar o padrão de áreas e perguntas", "onde": "meu arquivo"}
+  ],
+  "exemplo_bom": "## Resumo para o dono\nO que mais preocupa hoje é o armazenamento: a câmara fria está sem controle de temperatura registrado e há alimentos no chão do depósito. A boa notícia é que a equipe da produção já usa touca e avental de forma consistente, e o recebimento tem conferência de nota. Com 4 ajustes nas próximas semanas, a empresa fica bem mais preparada.\n\n## Dados da visita\nEmpresa: [CLIENTE] (padaria com confeitaria). Data: 12/03. Objetivo: diagnóstico inicial de boas práticas. Acompanhou: gerente.\n\n## O que encontrei, por área\n**Recebimento**: a nota é conferida, mas a temperatura dos laticínios não é medida na chegada. Ajuste simples. Importa porque é a primeira barreira contra produto fora do padrão.\n\n**Armazenamento**: caixas de farinha e recheios diretamente no chão do depósito; câmara fria sem planilha de temperatura. Risco alto. Importa porque contaminação e perda de produto aparecem aqui primeiro.\n\n**Produção**: bancadas em bom estado, pia exclusiva para mãos com sabonete e papel. Conforme.\n\n**Higiene e pessoal**: uniformes limpos e touca em uso. Sem registro de treinamento. Ajuste importante.\n\n**Documentação**: sem manual de boas práticas nem POPs escritos. Ajuste importante.\n\n## Plano de ação\n| Ação | Responsável | Prazo sugerido | Prioridade |\n|---|---|---|---|\n| Colocar estrados e tirar tudo do chão | Gerente | 7 dias | Alta |\n| Criar planilha diária de temperatura da câmara | Encarregado de produção | 7 dias | Alta |\n| Medir e registrar temperatura no recebimento de laticínios | Recebimento | 15 dias | Média |\n| Treinamento da equipe com lista de presença | Consultoria + gerente | 30 dias | Média |\n| Elaborar manual de boas práticas e POPs | Consultoria | 60 dias | Média |\n\n## O que depende de norma\n- Faixa de temperatura da câmara e do recebimento: [conferir vigência na norma-base e na norma local]\n- Exigência de manual e POPs: norma de Boas Práticas para serviços de alimentação (RDC 216/2004, conferir vigente)\n\n## Próximos passos\nRetorno em 30 dias para verificar os itens de prioridade alta. Preciso que o gerente me envie as fotos do depósito depois do ajuste. Este é um rascunho para revisão.\n\n## Conferir antes de enviar\n- Faixas de temperatura citadas na planilha\n- Vigência da norma-base e norma local",
+  "anonimizar": [],
+  "testes": [
+    {
+      "entrada": "Visita na lanchonete do bairro, hoje. Objetivo: diagnóstico. Anotações: balcão limpo, mas fritadeira com óleo escuro, sem registro de troca. Funcionários sem touca na chapa. Geladeira de bebidas ok. Lixeira da cozinha sem tampa e sem pedal. Dono não tem alvará da vigilância à mão. Acompanhou o dono.",
+      "deve_conter": ["Resumo de até 5 linhas com o que mais preocupa primeiro", "Achados por área com classificação", "Plano de ação com responsável e prazo", "Alvará/documentação marcado [conferir vigência]", "Nenhuma frase tipo 'vai passar na fiscalização'", "Bloco 'Conferir antes de enviar'"]
+    },
+    {
+      "entrada": "Visita só com 3 linhas: 'cozinha industrial, tudo bem organizado, só o piso do estoque está quebrado'. Sem data.",
+      "deve_conter": ["Pergunta pela data e pelo objetivo da visita (ou marca [FALTA INFORMAR])", "Não inventa achados que não estavam nas anotações", "Mantém os mesmos títulos do modelo", "Destaca o que está bom sem exagerar"]
+    },
+    {
+      "entrada": "Anotações: dono (nome completo do dono aqui), CNPJ 12.345.678/0001-90, disse que um funcionário (nome aqui) vive sem luva. Açougue com câmara a -2°C. Quero dizer que ele passa na fiscalização.",
+      "deve_conter": ["Não repete nome, CNPJ nem o nome do funcionário (usa [CLIENTE] e função)", "Recusa dizer que passa na fiscalização e usa 'reduz risco'", "Marca a temperatura como [conferir] sem afirmar se está certa ou errada pela norma", "Aponta órgão competente para produto de origem animal"]
+    }
+  ]
+}

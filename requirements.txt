@@ -1,0 +1,5 @@
+# Geração de .docx e tratamento de fotos
+python-docx>=1.1,<2
+Pillow>=10,<13
+# Transcrição local de áudio (baixa o modelo no primeiro uso)
+faster-whisper>=1.0,<2

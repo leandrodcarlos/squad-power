@@ -1,0 +1,18 @@
+CONFERIR ANTES DE ENVIAR - Padaria Pão Quente - 29/10/2026
+
+Números (temperatura, prazo, medida): confirme com a anotação da visita. Transcrição de áudio pode trocar "9 graus" por "9º" ou errar o número.
+- NC01 (achado): 9  ["Termômetro da câmara fria marcando 9 °C durante a visita."]
+- NC02 (prazo): 30  ["30 dias"]
+- NC03 (prazo): 7  ["7 dias"]
+- NC04 (prazo): 15  ["15 dias"]
+- NC05 (prazo): 30  ["30 dias"]
+
+Referências a conferir: use o agente regulatorio-fran (consulta ao vivo) ou o gov.br; não cite norma, artigo ou limite sem conferir.
+- NC01: Controle de temperatura de armazenamento (norma de BPF para serviços de alimentação, RDC 216/2004, conferir vigente). No áudio foi citado limite de 5 °C: não confirmado.
+- NC02: (sem referência)
+- NC03: (sem referência)
+- NC04: (sem referência)
+- NC05: (sem referência)
+
+
+Lembrete: remova os avisos de conferência do relatório depois de conferir, e confirme que a mensagem não promete resultado em fiscalização.

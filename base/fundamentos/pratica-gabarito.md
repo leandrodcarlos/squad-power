@@ -1,0 +1,71 @@
+# Prática de mentorias e encontros — começo sem nicho, a consultora como empresa, margem e recomeço
+
+O que a Fran orienta, em mentoria mensal do Power 4.0, em Grupo de Inteligência Coletiva (GIC) e em encontro de grupo segmentado do PAC, quando a aluna está começando ou recomeçando: não dá para estudar tudo antes de ter cliente, nicho vem depois, tratar a consultoria como empresa desde o primeiro dia, usar o conhecimento que já se tem, margem mínima para terceirizar e como recomeçar sozinha, com CLT, sem o nome da empresa antiga. Formato situação da aluna → orientação da Fran. Complementa `fundamentos/pratica-aulas.md` e `fundamentos/pratica-mentorias.md`. Valores e prazos são os ditos por ela em cada encontro, ordem de grandeza e não regra. "Power 4.0" = Formação em Consultoria e Assessoria de Alimentos Power 4.0; "PAC" = Programa de Aceleração em Consultoria; "GIC" = Grupos de Inteligência Coletiva.
+
+## Mapa: onde achar cada tema
+
+- Quero atender outros segmentos e não conheço a legislação; devo estudar antes?: bloco 1.
+- Preciso me posicionar como empresa, o cliente quis contratar empresa e não pessoa: bloco 2 (e bloco 3 para quando contratar).
+- Autoridade com treinamento, horas sobrando, terceirizar RT, margem: blocos 4 e 5.
+- Escolher nicho agora ou atuar de forma geral: bloco 6.
+- Desfiz a sociedade, voltei para CLT, quero recomeçar: bloco 7.
+
+## Começo sem dominar o segmento
+
+### P: Trabalhei muitos anos em um setor e comecei a consultoria. Preciso de dinheiro entrando e pensei em atender outros segmentos (padaria, restaurante), mas não conheço a legislação deles. O que estudar antes e por onde começar?
+R: A Fran avisa que vai "decepcionar": muitas vezes não dá para estudar antes de ter cliente, porque a teoria é muito diferente da prática. Ela diz que há uma verdade que "as pessoas não contam" sobre a consultoria de alimentos: muita coisa acontece sem planejamento. Na internet quem ensina costuma mandar escolher um nicho, mas o início é difícil e é preciso atirar para todos os lados. Ela própria atendeu muito serviço de alimentação, de que não gosta tanto, e hoje atende pouco; nem o pacote novo que está desenvolvendo (regulatório junto com marketing) nasceu de plano, foi juntando dois conhecimentos que ela já tinha.
+Ordem que ela dá:
+1. Faça de 4 a 5 conversas de prospecção com estabelecimentos de serviço de alimentação, para entender os problemas que eles enfrentam hoje (rotatividade de funcionário, desperdício, precificação, contratação).
+2. Lembre que em serviço de alimentação quase não se usa "parte técnica bruta": pesa mais liderança e gestão de pessoas, resolução de problema, até engenharia de cardápio, que não exige aplicar norma nenhuma.
+3. Pegue o problema e pergunte "como eu resolvo isto?"; o preparo vem a partir daí. Exemplo dela: restaurante com muito desperdício de salada porque as cubas grandes tinham que ficar cheias para ficar bonito e a salada murchava; trocaram por cubas menores com reposição mais frequente e o desperdício caiu drasticamente. A ideia, conta ela, veio de uma consulta à IA.
+4. Para desperdício, trabalhe dados: quanto precisa produzir, o que reduzir, o nível de reposição.
+5. Preparo técnico antes de ir quase sempre fica inútil na prática. "Abra o seu leque", converse, entenda o problema.
+Exemplo de ousadia dela: mandou proposta de treinamento sobre tema que ainda não domina e pediu 20 dias, a contar da assinatura do contrato, para ministrar. Justificativa dita ao cliente: precisa colher informações do estabelecimento para um treinamento focado, e esse prazo também é o tempo para ela aprender; ela sabe onde buscar a solução.
+Script de visita que ela sugere: explique sua experiência (por exemplo, 12 anos no mercado de produção de alimentos, indústria de lácteos) e diga que a visita é para conhecer os desafios. Faça perguntinhas para não ficar no vazio: como está a demanda de funcionários, a contratação, o desperdício, a precificação. Depois ofereça um diagnóstico gratuito, que mostra "coisas que talvez você não esteja vendo e que podem estar acabando com o seu lucro", aplicando um checklist, e o checklist vem junto com a proposta de solucionar o que aparecer.
+O nicho de origem continua: com o tempo as pessoas conhecem, indicam, e a consultora volta ao nicho onde quer atuar, "mas foi um caminho que eu precisei percorrer". Mantenha a prospecção do nicho de origem em paralelo ("seguir nas duas linhas"): é o que ela realmente sabe fazer. "Não se preocupem em se preparar tecnicamente para ir."
+(Fonte: Power 4.0 › 14 - Mentorias Mensais Tira Dúvidas › 20 - Mentoria Setembro)
+
+## A consultora como empresa
+
+### P: Atuo desde 2018 pelo meu nome, com CNPJ de MEI. Um cliente me dispensou porque queria contratar uma empresa, não uma pessoa. Tenho dificuldade de estruturar o serviço e preciso mudar meu posicionamento. Por onde começo?
+R: A Fran dá três pilares, nesta ordem.
+1. Mudar a chave: tratar o negócio como empresa e não como "extra". Esse é, para ela, o primeiro erro de quem começa. "Ah, mas eu sou sozinha, ainda não tenho cliente. Não importa": o negócio precisa rodar como empresa, senão não dá certo. "Você precisa ter cabeça de empreendedora antes de ter cabeça de consultora." Ela nota que muita gente sente vergonha de parecer empresa e falhar, mas quando entra em emprego de carteira assinada veste a camisa e leva a sério, então precisa levar o próprio negócio a sério também.
+2. Posicionar-se como empresa diante dos clientes, mesmo começando sozinha. A comunicação com o cliente precisa ser ajustada, e a maioria demora para fazer isso. Exemplo dela com um cliente: depois do contrato fechado cria um grupo de WhatsApp (canal que o cliente prefere) e nele entram as consultoras da empresa. Quando o cliente disse "eu quero que você olhe para mim", ela respondeu que a empresa tem equipe multidisciplinar que atende para que ele seja bem atendido, que ela sozinha não consegue olhar todos os clientes, que participa de todos os grupos, "porém a empresa é responsável pelas entregas". Se o cliente quer só a Fran, isso tem outro valor, porque ela não controla tudo. Vale também para a aluna: o posicionamento é da empresa, seja qual for o nome, e não importa que o nome da empresa seja o seu.
+3. Mapear serviços e entregas (ver bloco 3).
+Alerta dela: a maior frustração do cliente é fazer a reunião de prospecção com a dona e ser atendido por outra pessoa. A saída está no processo de venda, que é um processo de conexão: o cliente vai se conectar com você, mas precisa se conectar diretamente com a empresa também. Deixe claro desde a venda quem atende (por exemplo, a funcionária da área de alimentos que acompanha todo o processo e recolhe informações).
+Para a aluna que se perde assistindo cursos "de um canto para outro": a Fran diz que é preciso ir por partes e criar uma linha de raciocínio; esses três pontos são a ordem.
+(Fonte: Power 4.0 › 14 - Mentorias Mensais Tira Dúvidas › 18 - Mentoria Julho)
+
+### P: Como faço o mapeamento dos serviços e entregas que a Fran pede?
+R: Ela mostra (sem expor o trabalho da aluna) um mapa mental feito no Canva gratuito: não precisa de ferramenta sofisticada. Para cada serviço: o que é entregue, quais as etapas e quem executa cada etapa. Uma das etapas do mapeamento é a comunicação com o cliente. Ela separa etapa estrutural de etapa técnica. Exemplo de etapa estrutural: o cliente chega e recebe tal e-mail, o grupo é formado, ela cria uma pasta no Drive e manda mensagem no WhatsApp; é o passo a passo do que se faz com o cliente antes da parte técnica. É um processo que se revê sempre. Mesmo quem trabalha sozinha precisa disso, porque é o primeiro passo para contratar: ela pega o mapa da empresa dela, pinta de verde tudo o que outra pessoa pode fazer e, a partir disso, procura quem contratar. Ela convida a trazer o mapa na mentoria seguinte ou mandar no grupo para olharem e acrescentarem.
+(Fonte: Power 4.0 › 14 - Mentorias Mensais Tira Dúvidas › 18 - Mentoria Julho)
+
+## Treinamento, autoridade e margem
+
+### P: Sou responsável técnica de alguns locais e minha empresa tem horas sobrando. Quero virar autoridade e pensei em focar em treinamentos, já que rotulagem eu teria que aprender. Faz sentido? E como ampliar sem depender só de RT?
+R: A Fran diz que o caminho mais fácil é usar o conhecimento que a aluna já tem e levá-lo adiante. Ela não indica aprender rotulagem só para ganhar autoridade: com cerca de 10 anos atendendo esses mercados, a aluna já aprendeu muita coisa, então monta um treinamento focado no que já sabe e oferece aos estabelecimentos. "Não tem segredo" na estruturação: decidir quais treinamentos oferecer. Continue no nicho em que já está; atender um nicho não impede oferecer para outros (um treinamento de boas práticas pode ir para restaurante), mas cada tipo de estabelecimento pede adaptação de tópicos: restaurante não é igual a açougue, nem a creche.
+Ela acredita num treinamento mais encorpado que apenas ir lá e dar aula: treinamento mais presença na empresa por um tempo para implementar algo. E o treinamento é porta de entrada para serviços mais caros e mais encorpados. Quanto cobrar não tem resposta pronta (muitas variáveis; ver as aulas de financeiro para calcular hora e custo de ir ao cliente). Ordem de grandeza que ela dá: treinamento de 700 a 3.000 reais conforme número de pessoas, conteúdo e carga; quando passa de treinamento para assessoria, em torno de um salário a um salário e meio por mês, e é trabalho parecido com o de RT, só que sem assinar tecnicamente. Antes de precificar, ela lembra o exercício do mapa de conhecimentos para decidir como entregar.
+Se a aluna já atua como responsável técnica e vê que RT rende pouco e ocupa pouco tempo, mas quer mais dinheiro, a Fran manda olhar o exercício do mapa de conhecimentos da semana anterior.
+(Fonte: PAC › 05 - Grupos de Inteligência Coletiva GIC › 01 - Encontro Março)
+
+### P: Pensei em terceirizar RT para outras profissionais, mas o piso da categoria deixa pouca margem e tenho medo de risco. Como pensar nisso?
+R: Regra da Fran: o seu negócio precisa dar margem de 40 a 50% de lucro, senão o serviço não faz sentido. Se não fecha, ou você atua você mesma como RT, ou monta outro modelo: contratar uma pessoa (CLT) para a parte operacional, estagiária ou recém-formada que entenda que o trabalho dela é ser auxiliar; ela executa e a aluna assina e supervisiona. Cuide dos requisitos de cadastro e de formação exigidos pelo conselho (conferir vigente). Quem executa não pode "fazer todo o trabalho" por você sem direção.
+(Fonte: PAC › 05 - Grupos de Inteligência Coletiva GIC › 01 - Encontro Março)
+
+## Nicho: escolher agora?
+
+### P: Preciso escolher um nicho agora? Vejo potencial em vários segmentos e tenho medo de especificar e perder oportunidade (tenho contrato com associação comercial, com contato de agroindústria e comércio).
+R: A Fran não especificaria nicho agora. Trabalharia de forma geral no setor de alimentos, levando soluções para os problemas que a aluna vê no estabelecimento. Para o que não domina, a saída é resolver em parceria com outra consultora ("isso eu resolvo, isso eu pego em parceria com alguém"). Ela diz que a parceria já em andamento da aluna com outra consultora (execução em prefeituras, com o nome da outra como metodologia) é excelente, tanto na parte de convênio quanto no trabalho braçal. Na mesma conversa ela pede para a semana seguinte: planilha de controle da prospecção com 30 nomes por semana, script de abordagem e portfólio estratégico (experiência e com que trabalhou), e depois ela dá os pitacos do que melhorar. Consultoria é um "eterno fazer estratégia, analisar e melhorar": até a data combinada a aluna já terá prospectado e terá dados para ajustar.
+(Fonte: PAC › 04 - Encontros - Grupos Segmentados › 01 - 1º Encontro Grupo 01)
+
+## Recomeço com CLT
+
+### P: Desfiz a sociedade da consultoria e voltei ao CLT. Quero recomeçar do zero (talvez consultoria para suplementos), mas sem o nome da empresa antiga. Como estruturar agora?
+R: Primeiro, a Fran acalma: a CLT pode ser um momento de passagem, de rever o que quer, com estabilidade e algo para onde voltar. E a aluna "já tem toda a bagagem para fechar cliente", mesmo sozinha agora.
+1. Nome: sem o nome da empresa antiga, o nome é o dela, "nome + consultora de alimentos". Ela pede só para ser a pessoa: conversar com o cliente, entender o que ele quer, fazer proposta. Não precisa criar nome de empresa, logo, CNPJ agora; a proposta é a mais simples possível com o nome da consultora. Se o cliente pedir nota e ela não tiver CNPJ, a própria Fran emite ("é o menor dos problemas").
+2. Prazo: o "pulo do gato" é o prazo de entrega. O que antes se entregava em 3 a 5 dias talvez leve 10 ou 15; estruture isso com o cliente. Não precisa dizer que está na CLT: basta dizer os prazos, um pouco mais longos.
+3. Prospecção: este não é o momento de prospectar em massa. Pegue os contatos de indicação que já tem e trabalhe um por vez, fechando um antes do próximo, para não se sobrecarregar com 3 ou 4 clientes ao mesmo tempo. Fala de abertura que ela sugere: "tenho tantos anos na consultoria e estou numa nova fase de atendimento, personalizado dentro das empresas; quero marcar uma chamada para entender o que você quer; se estiver corrido, me manda no WhatsApp o que precisa e eu monto a proposta".
+4. Controle: planilha de prospecção, só como controle (quem entrou em contato, quem pediu proposta, quem fechou ou não) mais um script para a conversa. Com isso a aluna mede a própria capacidade produtiva dentro da CLT: quantos clientes atende por serviço, em quais horários da rotina consegue trabalhar.
+5. Parceira executora: para o que sobrar, ela sugere arrumar uma parceira. Pelo que costuma fazer, a conta é de 30% para quem faz o trabalho braçal (exemplo dela: "tenho um serviço de R$ 500, você executa e fica com tal parte"). Pode lançar no grupo da comunidade: "tenho uma demanda de suplementos, alguém quer fazer parceria comigo?". Na proposta, pense em duas versões: você sozinha, no prazo longo, ou com suporte (até para organizar documentos, coletar dados, trocar mensagens com o cliente durante o dia).
+Tarefa: montar um modelo de proposta e mandar para a Fran avaliar.
+(Fonte: PAC › 04 - Encontros - Grupos Segmentados › 01 - 1º Encontro Grupo 01)

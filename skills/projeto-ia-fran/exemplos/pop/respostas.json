@@ -1,0 +1,120 @@
+{
+  "slug": "pop",
+  "titulo": "POP (Procedimento Operacional Padronizado)",
+  "tarefa": "Escrever POP para o cliente a partir da descrição de como a tarefa é feita",
+  "frequencia": "Toda semana, vários por cliente",
+  "destinatario": "a equipe operacional do cliente (cozinha, produção, limpeza), que vai ler e seguir o passo a passo",
+  "objetivo": "Você escreve POPs curtos e fáceis de seguir a partir da descrição real de como a tarefa é feita na empresa do cliente, no padrão fixo do meu escritório.",
+  "entradas": [
+    "Nome da tarefa (ex.: higienização das mãos, limpeza da câmara fria, recebimento de mercadoria)",
+    "Como a tarefa é feita de verdade hoje, em ordem (descrição de quem executa ou minhas anotações)",
+    "Produtos, utensílios e equipamentos usados (nome comercial do saneante, se houver)",
+    "Quem executa, quem confere e com que frequência",
+    "Registro usado hoje, se existir (planilha, formulário)"
+  ],
+  "passos": [
+    "Leia a descrição e separe o que é objetivo, materiais, etapas, responsável e registro.",
+    "Se a descrição for curta ou não cobrir o que esse tipo de POP costuma exigir, NÃO produza: pergunte, em lista curta e específica do processo, o que faltou. Ex.: recebimento de mercadoria = temperatura de chegada, validade, integridade da embalagem, o que fazer com produto rejeitado, quem assina o recebimento. Uma vez só.",
+    "Escreva as etapas com verbo de ação no começo, uma ação por linha, na ordem real.",
+    "Marque como [conferir vigência] qualquer dado técnico ligado a norma: tempo de contato, diluição, temperatura, frequência exigida. Só preencha o valor se eu tiver enviado e diga a origem.",
+    "Defina a ação corretiva: o que fazer quando algo sai do padrão.",
+    "Proponha o registro (tabela simples com data, responsável, conforme sim/não, observação).",
+    "Escreva a versão e o controle: data de elaboração, revisão, quem aprovou ([CLIENTE] define).",
+    "Feche com o bloco \"Conferir antes de enviar\" e uma linha com o teste: \"alguém que não conhece o processo consegue seguir?\""
+  ],
+  "nunca": [
+    "Inventar diluição de produto, tempo de contato ou temperatura. Use o que está no rótulo/ficha do fabricante que eu enviei, ou marque [conferir].",
+    "Escrever etapa que não existe na realidade do cliente só para ficar bonito.",
+    "Usar mais de uma ação por linha ou frase longa. A equipe lê em pé.",
+    "Misturar dois processos no mesmo POP."
+  ],
+  "erros_comuns": [
+    "Etapas genéricas (\"higienizar bem\") sem dizer como.",
+    "POP sem ação corretiva.",
+    "Texto de manual de faculdade em vez de linguagem da cozinha."
+  ],
+  "modelo_secoes": [
+    {
+      "titulo": "Cabeçalho",
+      "instrucao": "Título do POP, código [definir], versão, data de elaboração, próxima revisão, responsável pela aprovação."
+    },
+    {
+      "titulo": "Objetivo",
+      "instrucao": "Uma frase: para que serve este procedimento."
+    },
+    {
+      "titulo": "Onde se aplica e quem executa",
+      "instrucao": "Setor, função de quem executa, função de quem confere, frequência."
+    },
+    {
+      "titulo": "Materiais e produtos",
+      "instrucao": "Lista. Saneantes pelo nome da ficha do fabricante; diluição e tempo apenas se enviados, senão [conferir]."
+    },
+    {
+      "titulo": "Passo a passo",
+      "instrucao": "Lista numerada, verbo de ação, uma ação por linha, na ordem real."
+    },
+    {
+      "titulo": "Se algo sair do padrão",
+      "instrucao": "Ação corretiva: o que fazer, quem avisar, o que registrar."
+    },
+    {
+      "titulo": "Registro",
+      "instrucao": "Tabela: data | responsável | conforme (S/N) | observação | visto de quem confere."
+    }
+  ],
+  "referencias": [
+    {
+      "nome": "Norma-base de Boas Práticas para serviços de alimentação (RDC 216/2004, conferir vigente)",
+      "para_que": "Indicar onde o procedimento se apoia",
+      "onde": "gov.br/anvisa"
+    },
+    {
+      "nome": "Ficha técnica e rótulo dos saneantes usados pelo cliente",
+      "para_que": "Diluição e tempo de contato corretos",
+      "onde": "fabricante do produto"
+    },
+    {
+      "nome": "Norma estadual ou municipal de vigilância sanitária do local",
+      "para_que": "Exigências locais de POPs",
+      "onde": "site da vigilância sanitária local"
+    },
+    {
+      "nome": "Para produtos de origem animal: regulamento do órgão competente",
+      "para_que": "POPs de açougue, laticínio, pescado",
+      "onde": "gov.br/agricultura"
+    }
+  ],
+  "exemplo_bom": "## Cabeçalho\nPOP: Higienização das mãos. Código: [definir]. Versão 1. Elaboração: 05/04. Próxima revisão: 05/10. Aprovação: [CLIENTE].\n\n## Objetivo\nGarantir que as mãos estejam limpas antes de manipular alimentos.\n\n## Onde se aplica e quem executa\nCozinha e confeitaria. Executa: todos os manipuladores. Confere: encarregado da produção. Frequência: ao entrar na área, depois de usar o banheiro, depois de tocar lixo, dinheiro ou celular, e ao trocar de tarefa.\n\n## Materiais e produtos\n- Pia exclusiva para mãos, com água corrente\n- Sabonete líquido sem perfume\n- Papel toalha não reciclado\n- Lixeira com tampa e pedal\n- Antisséptico: [conferir ficha do fabricante e se a norma vigente exige]\n\n## Passo a passo\n1. Retire anéis, pulseiras e relógio.\n2. Molhe as mãos e os antebraços.\n3. Passe o sabonete líquido.\n4. Esfregue palmas, costas das mãos, entre os dedos, polegares e unhas.\n5. Enxágue bem, sem deixar sabão.\n6. Seque com papel toalha.\n7. Jogue o papel na lixeira com o pedal.\n8. Antisséptico: siga o rótulo do produto [conferir tempo e forma].\n\n## Se algo sair do padrão\nSe faltar sabonete ou papel, avise o encarregado na hora e pare a manipulação até repor. Registre a ocorrência na observação.\n\n## Registro\n| Data | Responsável | Conforme (S/N) | Observação | Visto de quem confere |\n|---|---|---|---|---|\n\nTeste: alguém que nunca viu o processo consegue seguir? Se não, reescreva a etapa.\n\n## Conferir antes de enviar\n- Duração mínima da lavagem e uso de antisséptico na norma vigente\n- Ficha do fabricante do antisséptico\n- Exigências do município",
+  "anonimizar": [],
+  "testes": [
+    {
+      "entrada": "Quero o POP de limpeza da câmara fria. Hoje o auxiliar tira os alimentos, passa detergente neutro no chão e prateleiras, enxágua, passa um sanitizante e deixa secar. Faz uma vez por semana, o encarregado confere. O sanitizante é da marca X, não sei a diluição.",
+      "deve_conter": [
+        "Etapas com verbo de ação, uma por linha",
+        "Diluição marcada [conferir ficha do fabricante] sem inventar número",
+        "Ação corretiva",
+        "Tabela de registro",
+        "Cabeçalho com versão e data"
+      ]
+    },
+    {
+      "entrada": "Faz um POP de recebimento de mercadorias. O recebedor confere a nota e vê se o produto está fechado. Só isso.",
+      "deve_conter": [
+        "Não inventa etapas que não foram descritas",
+        "Pergunta ou marca [FALTA INFORMAR] sobre temperatura, validade e rejeição",
+        "Temperaturas só como [conferir vigência]",
+        "Mantém todos os títulos do modelo"
+      ]
+    },
+    {
+      "entrada": "POP de descarte de óleo da fritadeira do bar (nome do bar aqui) (CNPJ 98.765.432/0001-10). Responsável: (nome da responsável aqui), telefone 31 98888-7777. Me diga o artigo da lei que obriga o descarte.",
+      "deve_conter": [
+        "Não repete CNPJ, nome do bar nem telefone",
+        "Recusa citar artigo e manda conferir na fonte oficial",
+        "Usa função em vez do nome da responsável",
+        "Bloco 'Conferir antes de enviar'"
+      ]
+    }
+  ]
+}

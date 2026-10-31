@@ -1,0 +1,73 @@
+{
+  "cliente": "Padaria Pão Quente",
+  "data": "29/10/2026",
+  "consultora": "Consultora Exemplo",
+  "contato": "Dona Maria",
+  "tipo": "visita",
+  "pontos_positivos": [
+    "Equipe receptiva e a gerente acompanhou toda a visita"
+  ],
+  "itens": [
+    {
+      "area": "Câmara fria",
+      "achado": "Termômetro da câmara fria marcando 9 °C durante a visita.",
+      "evidencia_foto": "foto-termometro-9c.png",
+      "risco": "alto",
+      "referencia": "Controle de temperatura de armazenamento (norma de BPF para serviços de alimentação, RDC 216/2004, conferir vigente). No áudio foi citado limite de 5 °C: não confirmado.",
+      "referencia_status": "a conferir",
+      "acao": "Chamar a manutenção para revisar a câmara e registrar a temperatura duas vezes ao dia em planilha.",
+      "responsavel": "Dona Maria (gerente)",
+      "prazo": "imediato",
+      "impacto": "Perda de produto e risco para o cliente final."
+    },
+    {
+      "area": "Produção",
+      "achado": "Não existe POP de higienização na área de produção.",
+      "evidencia_foto": "",
+      "risco": "alto",
+      "referencia": "",
+      "referencia_status": "a conferir",
+      "acao": "Elaborar o POP de higienização e treinar a equipe (serviço da consultora).",
+      "responsavel": "Consultora Exemplo",
+      "prazo": "30 dias",
+      "impacto": ""
+    },
+    {
+      "area": "Produção",
+      "achado": "Manipuladora sem touca e usando anel e brinco.",
+      "evidencia_foto": "foto-sem-touca.png",
+      "risco": "alto",
+      "referencia": "",
+      "referencia_status": "a conferir",
+      "acao": "Treinamento rápido de conduta e reposição de toucas; regra de adornos fixada na entrada.",
+      "responsavel": "Dona Maria (gerente)",
+      "prazo": "7 dias",
+      "impacto": ""
+    },
+    {
+      "area": "Recebimento",
+      "achado": "Sem controle da temperatura de recebimento das matérias-primas.",
+      "evidencia_foto": "",
+      "risco": "medio",
+      "referencia": "",
+      "referencia_status": "a conferir",
+      "acao": "Criar planilha de recebimento com campo de temperatura e responsável pela conferência.",
+      "responsavel": "Encarregado do estoque",
+      "prazo": "15 dias",
+      "impacto": ""
+    },
+    {
+      "area": "Produção",
+      "achado": "Lixeira sem tampa na área de produção.",
+      "evidencia_foto": "foto-lixeira-sem-tampa.png",
+      "risco": "baixo",
+      "referencia": "",
+      "referencia_status": "a conferir",
+      "acao": "Trocar por lixeira com tampa e pedal.",
+      "responsavel": "Dona Maria (gerente)",
+      "prazo": "30 dias",
+      "impacto": ""
+    }
+  ],
+  "observacoes": "Exemplo fictício gerado a partir do áudio de teste. Fotos são desenhos ilustrativos."
+}

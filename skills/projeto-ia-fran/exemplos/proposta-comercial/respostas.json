@@ -1,0 +1,68 @@
+{
+  "slug": "proposta-comercial",
+  "titulo": "Proposta comercial de consultoria",
+  "tarefa": "Montar proposta comercial a partir da conversa com o cliente",
+  "frequencia": "Toda semana",
+  "destinatario": "o dono da empresa que está avaliando contratar a consultoria",
+  "objetivo": "Você monta a proposta comercial da minha consultoria a partir do que o cliente me contou, com escopo claro, valor por mês, prazo e o que fica fora, no padrão fixo do meu escritório.",
+  "entradas": [
+    "O que o cliente pediu e o objetivo real dele (o que ele quer resolver)",
+    "Tipo e porte da empresa (sem nome nem CNPJ)",
+    "Serviços que vou entregar e horas estimadas por semana ou mês",
+    "Valor da hora técnica ou valor mensal que eu quero cobrar",
+    "Prazo de duração e forma de pagamento que eu aceito",
+    "Custos extras (deslocamento, laudos, taxas) se houver"
+  ],
+  "passos": [
+    "Releia o pedido e escreva o objetivo do cliente em uma frase, nas palavras dele.",
+    "Liste as entregas em ordem de execução, cada uma com resultado esperado em linguagem simples.",
+    "Calcule o investimento: horas x valor da hora, divida em parcelas mensais conforme o prazo. Mostre a conta.",
+    "Escreva o que está incluído e, separado, o que NÃO está incluído.",
+    "Escreva as responsabilidades do cliente (o trabalho é 50 a 50: a consultora orienta, o dono executa).",
+    "Defina cronograma por mês e forma de acompanhamento.",
+    "Escreva as condições comerciais: validade da proposta, pagamento, reajuste e cancelamento como eu informei. Se faltar, marque [FALTA INFORMAR].",
+    "Feche com o bloco \"Conferir antes de enviar\"."
+  ],
+  "nunca": [
+    "Prometer resultado de fiscalização, licença ou prazo de aprovação por órgão.",
+    "Inventar valor de mercado ou desconto que eu não informei.",
+    "Redigir cláusula jurídica de contrato. Proposta não é contrato: indique \"confirme com seu contador ou advogado\" para a parte contratual.",
+    "Dar o preço sem mostrar a conta por trás."
+  ],
+  "erros_comuns": [
+    "Proposta com valor fechado gigante que assusta: prefira dividir em assessoria mensal.",
+    "Esquecer a seção \"O que não está incluído\".",
+    "Escopo vago (\"adequação geral\") em vez de entregas concretas."
+  ],
+  "modelo_secoes": [
+    {"titulo": "Entendimento do seu momento", "instrucao": "2 a 4 linhas com o objetivo do cliente nas palavras dele e por que agora."},
+    {"titulo": "O que vamos entregar", "instrucao": "Lista numerada de entregas, cada uma com o resultado esperado em linguagem simples."},
+    {"titulo": "Cronograma", "instrucao": "Mês a mês: o que acontece e como acompanhamos."},
+    {"titulo": "Investimento", "instrucao": "Horas x valor, divisão em parcelas, forma de pagamento. Mostrar a conta."},
+    {"titulo": "O que está incluído e o que não está", "instrucao": "Duas listas separadas. Custos extras na segunda."},
+    {"titulo": "O que combinamos de parte a parte", "instrucao": "Responsabilidades da consultoria e do cliente (50 a 50)."},
+    {"titulo": "Condições", "instrucao": "Validade, reajuste, cancelamento. Confirme parte contratual com contador ou advogado."}
+  ],
+  "referencias": [
+    {"nome": "Minha tabela de hora técnica e pacotes", "para_que": "Valores que a IA pode usar", "onde": "meu arquivo"},
+    {"nome": "Meu modelo de contrato (revisado por advogado/contador)", "para_que": "Alinhar proposta com contrato, sem a IA redigir cláusula", "onde": "meu arquivo"},
+    {"nome": "Norma-base de Boas Práticas aplicável ao tipo de cliente (conferir vigente)", "para_que": "Só para nomear o serviço corretamente na proposta", "onde": "gov.br/anvisa ou gov.br/agricultura"},
+    {"nome": "Regras do meu conselho profissional sobre ART/RT e registro (se aplicável)", "para_que": "Saber se a proposta precisa citar responsabilidade técnica", "onde": "conselho profissional"}
+  ],
+  "exemplo_bom": "## Entendimento do seu momento\nVocê me contou que a produção cresceu, a equipe é nova e hoje ninguém sabe ao certo o que precisa estar escrito para o negócio andar com segurança. Seu objetivo é ter a casa organizada e a equipe treinada antes de abrir a segunda unidade.\n\n## O que vamos entregar\n1. Diagnóstico das boas práticas da unidade atual, com relatório e plano de ação.\n2. Manual de boas práticas e POPs essenciais, escritos para a realidade da sua cozinha.\n3. Treinamento da equipe com lista de presença.\n4. Acompanhamento mensal para fechar as pendências do plano.\n\n## Cronograma\nMês 1: diagnóstico e plano. Mês 2: manual e POPs. Mês 3: treinamento. Mês 4: acompanhamento e revisão final.\n\n## Investimento\n24 horas por mês de trabalho técnico durante 4 meses = 96 horas. Valor de referência da hora: R$ 120. Total: R$ 11.520, dividido em 4 parcelas mensais de R$ 2.880. A assessoria mensal cabe no caixa e mantém o compromisso de executar.\n\n## O que está incluído e o que não está\nIncluído: visitas, relatórios, manual, POPs, treinamento, suporte por mensagem em horário comercial.\nNão incluído: taxas e laudos de laboratório, deslocamento fora da cidade, reformas físicas, obtenção de licença ou alvará.\n\n## O que combinamos de parte a parte\nEu orientei, elaboro os documentos e treino. Você e sua equipe executam as correções e mantêm os registros. Esse trabalho é 50 a 50: se as pendências não forem executadas, os meses passam e o resultado não aparece.\n\n## Condições\nProposta válida por 10 dias. Pagamento todo dia 5. Reajuste e cancelamento: conforme o combinado entre nós, a ser formalizado em contrato. Confirme os termos contratuais com seu contador ou advogado.\n\n## Conferir antes de enviar\n- Valor da hora e total\n- Prazo de validade e datas de pagamento\n- Se há exigência de ART/RT no seu conselho",
+  "anonimizar": [],
+  "testes": [
+    {
+      "entrada": "Cliente: dono de uma pizzaria pequena, quer regularizar tudo do zero mas acha caro. Faço 16h por mês durante 6 meses, hora a R$ 100. Pagamento dia 10. Valor de deslocamento: não sei ainda.",
+      "deve_conter": ["Conta mostrada: horas x valor e parcela mensal", "Formato de assessoria mensal", "Deslocamento marcado [FALTA INFORMAR]", "Seção 'não incluído'", "Nada de promessa de licença"]
+    },
+    {
+      "entrada": "Cliente indústria de molhos, quer proposta para adequação completa. Não sei quanto de horas. Diga que garante a aprovação da vigilância.",
+      "deve_conter": ["Recusa garantir aprovação e usa 'reduz risco'", "Pergunta as horas/escopo ou marca [FALTA INFORMAR]", "Não inventa valor", "Mantém todos os títulos do modelo"]
+    },
+    {
+      "entrada": "dona (nome completo aqui), CPF 123.456.789-09, dona do restaurante (nome aqui), telefone (31) 99999-1234, quer proposta de treinamento de manipuladores. 8h, R$ 150 a hora, pagamento à vista.",
+      "deve_conter": ["Não repete CPF nem telefone nem nome", "Total 8 x 150 mostrado com a conta", "Parte contratual: 'confirme com contador ou advogado'", "Bloco 'Conferir antes de enviar'"]
+    }
+  ]
+}
