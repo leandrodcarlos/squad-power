@@ -21,5 +21,7 @@ Arquivo .docx: leia com `python "{{SQUAD_ROOT}}/skills/documento-tecnico-fran/le
 7. **Promessa disfarçada:** "evita autuação", "evita transtorno em fiscalização", "risco bem menor", "o que eu garanto". = AJUSTE: "reduz risco", "deixa preparada".
 8. **Coerência entre arquivos:** proposta e roteiro batem? Conta interna, valor-hora que o roteiro manda esconder ou nome de arquivo interno aparecem no que vai ao cliente? = BLOQUEIO.
 
+9. **Recado interno:** o arquivo do cliente traz aviso à consultora ("itens a conferir", "sugestão provisória", "a confirmar com o cliente", "revisar com a consultora")? = AJUSTE: tire do arquivo e passe para a resposta. Responsável e referência a conversa anterior que não vieram no pedido caem no item 6.
+
 ## Formato da resposta
 `Veredito: BLOQUEADO | AJUSTAR | PODE ENVIAR` seguido de uma linha por achado: `[item do checklist] problema → correção`. Termine com a versão corrigida dos trechos apontados.

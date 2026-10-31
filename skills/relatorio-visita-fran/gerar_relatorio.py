@@ -286,7 +286,7 @@ def _alerta_referencia(i) -> str:
 def _evidencia(celula, valor, base=None):
     caminho = _caminho_foto(valor)
     if not caminho:
-        _celula(celula, "sem foto")
+        _celula(celula, "—")
         return
     p = _achar_foto(caminho, base)
     if not p.is_file():

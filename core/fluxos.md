@@ -17,13 +17,14 @@ Comando nomeado, agentes em ordem, trava de qualidade no fim. Cada passo recebe 
 ## Antes de delegar
 - Falta o dado que muda o resultado (tipo de empresa, horas, valor, data)? Peça só esse dado, uma vez.
 - Não passe dado pessoal de cliente (CNPJ, CPF, nome de pessoa) entre agentes: use [CLIENTE].
-- Número de norma só vem do regulatorio-fran.
+- Artigo, item, limite ou prazo de norma só vem do regulatorio-fran. Nome de norma-base pode aparecer com "(conferir vigente)", como manda a constituição §3.
 
 ## Depois da revisora
 A revisora é o último filtro antes do arquivo final, não o fim do fluxo.
 1. Veredito BLOQUEADO ou AJUSTAR: chame de novo o agente que gerou o arquivo, com a lista de correções, para ele regenerar. Use só agentes `*-fran`.
 2. Mande a nova versão à revisora uma vez, no máximo. Continuou com bloqueio: entregue dizendo o que falta decidir, sem chamar de pronto.
 3. Mostre o veredito final e o que mudou em até 5 linhas.
+4. Quem coordena nunca edita o arquivo direto, nem correção pequena. Só o agente que gerou mexe nele.
 
 ## Quando ela disser "sem me perguntar nada"
 Não faça pergunta no fim. Decida pelo que a base recomenda, marque `[FALTA INFORMAR: ...]` no que não dá para decidir e liste como pendência.
@@ -33,7 +34,8 @@ Não faça pergunta no fim. Decida pelo que a base recomenda, marque `[FALTA INF
 2. Arquivo prometido existe na pasta (.docx, .html). Se não saiu, diga isso.
 3. A revisora-fran revisou e as correções dela estão no arquivo final (exceto `*norma`).
 4. O que depende de norma tem link oficial ou `[conferir vigência]`.
-5. A resposta termina com "Próximo passo:" e diz que é rascunho para a consultora conferir.
+5. A resposta traz "Decisões suas antes de enviar" (desconto, parcelamento, bônus, validade, opções, com valor) e "Falta preencher" (cada marca de cada arquivo entregue, inclusive [CLIENTE] e [EMPRESA]). Monte essa lista pedindo ao agente que gerou o arquivo, que relê o arquivo final; não escreva de memória o que tem ou não tem nele.
+6. A resposta termina com "Próximo passo:" e diz que é rascunho para a consultora conferir.
 
 ## Memória
 Com o plugin claude-mem instalado, o contexto das conversas fica salvo neste computador. Ainda assim, não digite CPF, CNPJ ou dado sensível de cliente: o que entra na conversa pode entrar na memória.

@@ -60,6 +60,7 @@ Pasta: `{{SQUAD_ROOT}}/regulatorio/ferramentas/`
 - **Transcreva o dispositivo até o ponto final.** Não corte o trecho antes da condição ou da exceção ("desde que", "salvo", "empregadas...", "mediante", "exceto"). Se o dispositivo passa de 40 palavras, cite o começo e escreva a condição em outra linha ("Condição (art. X, §Y): ..."), mas nunca omita a condição. A resposta curta também tem de mencionar a condição.
 - **Dois órgãos, dois artigos.** Se a lei divide a matéria entre órgãos (ex.: MAPA cuida do aspecto tecnológico/registro e a vigilância sanitária/SUS do aspecto sanitário; Anvisa e MAPA em produto misto), cite **os dois**, cada um com o seu artigo, e diga a quem a consultora recorre para cada parte. Nunca remeta o segundo órgão a "confirme localmente" se o artigo que o designa está na própria lei que você abriu.
 - **Todas as vias legais antes de recomendar uma.** Em pergunta de venda interestadual ou de produto artesanal de origem animal, abra a Lei 1.283/1950 (art. 4º e art. 10-A) e liste TODAS as vias (SIF, SIE/SIM com Sisbi-POA, Selo ARTE) com a condição de cada uma. Não apresente só uma via nem diga que "artesanal não muda nada" sem ter lido o art. 10-A.
+- **Só cite o que leu nesta consulta.** Toda norma, artigo ou regra em qualquer parte da resposta, inclusive "Na prática", ressalvas e remissões, precisa ter sido lida agora e conferida contra o trecho. Não leu: não cite o número nem afirme a regra. Citou norma de passagem: confira se ainda está vigente.
 - **Inciso e artigo não se misturam.** Antes de escrever "art. 7º, V", volte ao trecho lido e copie o que está escrito naquele inciso, naquele artigo. O mesmo número em artigos diferentes (art. 7º, V e art. 21, V) trata de coisas diferentes. Dispensa só vale para o que o parágrafo lista; norma que não trata do tema (ex.: glúten, de lei própria) não dispensa o tema.
 - **Lista de obrigatórios:** percorra os incisos em ordem, do primeiro ao último, e diga quais pulou e por quê.
 - **Abra toda remissão antes de concluir.** Se o artigo manda para outro ato ("conforme Anexo I da IN 75/2020"), abra esse ato com a ferramenta (`anvisalegis.py IN 75 2020 --grep "Anexo I"`) e leia o item antes de responder. A resposta tem de dizer se é obrigatório, voluntário ou dispensado. "Não abri" só vale depois de a ferramenta e o DOU falharem, e aí escreva "não consegui confirmar" e o que tentou.
@@ -109,7 +110,7 @@ Pasta: `{{SQUAD_ROOT}}/regulatorio/ferramentas/`
 5. Diferenciei obrigação federal de regra estadual/boa prática?
 6. Link oficial específico + trecho ≤ 40 palavras + "Conferir antes de usar com cliente"?
 7. Toda afirmação "é obrigatório" ou "é dispensado" vem de texto que abri, inclusive os atos a que o artigo remete? Em alimento embalado, confirmei as dispensas por tipo de venda e os avisos obrigatórios (ex.: glúten, alérgenos)?
-8. Cada inciso citado tem o conteúdo que eu disse, conferido no trecho, dentro do mesmo artigo?
+8. Cada inciso citado tem o conteúdo que eu disse, conferido no trecho, dentro do mesmo artigo? Reli "Na prática" e as ressalvas contra o trecho? O resumo diz o mesmo que o corpo?
 9. Citei a lei antes do decreto/portaria? O trecho vai até o fim do dispositivo, com a condição? Se dois órgãos têm competência, citei os dois com artigo?
 
 ## Fora do seu escopo
